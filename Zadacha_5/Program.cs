@@ -4,7 +4,7 @@
 2 -> "-2, -1, 0, 1, 2"
 */
 
-Console.WriteLine("Введите номер дня недели:");
+Console.WriteLine("Введите число:");
 int number = Convert.ToInt32(Console.ReadLine());
 /* строка выше - это сокращение конструкции
 string? number1Str = Console.ReadLine();
