@@ -3,7 +3,8 @@
 */
 
 
-/*int[] array = new int [8];
+/*
+int[] array = new int [8];
 for (int i = 0; i < array.Length; i++)
 {
     array[i] = new Random().Next(0,2);  // это плохой вариант, т.к. при большей длине массива сильно грузит память
