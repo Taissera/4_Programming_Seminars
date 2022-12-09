@@ -15,7 +15,7 @@ int GetNumberFromConsole (string message)
         }
         else
         {
-            Console.WriteLine ("Ввели не число. ВВедите число");
+            Console.WriteLine ("Ввели не число. Введите число");
         }
     }
     return result;
